@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-size: 10px;
+  /*background-color:#AC35FF;*/
+  background-color: rgba(106, 1, 31);
+
+}
+body {
+/* || typography */
+
+h1 {
+  font-family: 'Sonsie One', cursive;
+  color: #ffffff;
+}
